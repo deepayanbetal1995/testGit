@@ -20,5 +20,5 @@ public void bubble(int []a)
 
 public static void Main(String []args)
 {
-	
+	int []arr={10,700,900,1,85};
 }
